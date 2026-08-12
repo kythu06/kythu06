@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A0A0A,45:E10600,100:C9A227&text=Build.%20Solve.%20Grow.&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=ASP.NET%20%7C%20React%20%7C%20DevSecOps&descAlignY=58&animation=fadeIn" alt="Animated header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A0A0A,45:E10600,100:C9A227&text=No%20Shortcuts.%20No%20Limits.%20Just%20Growth.&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=ASP.NET%20%7C%20React%20%7C%20DevSecOps&descAlignY=58&animation=fadeIn" alt="Animated header banner" />
 </p>
 
 <h1 align="center">Nguyễn Lê Kỳ Thư</h1>
