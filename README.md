@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=E10600&center=true&vCenter=true&width=760&lines=Learn.+Build.+Break+limits.+Repeat.;ASP.NET+today+-%3E+React+next+-%3E+DevSecOps+ahead.;Focused+on+building+results+beyond+expectations." alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=E10600&center=true&vCenter=true&width=760&lines=Learn.+Build.+Break+limits.+Repeat.;ASP.NET+today+-%3E+React+next+-%3E+DevSecOps+ahead.;Focused+on+building+results+beyond+expectations" alt="Animated typing introduction" />
 </p>
 
 <p align="center">
@@ -151,41 +151,6 @@ Building consistently through practical projects, backend exploration, and conti
       width="60%"
       alt="GitHub contribution streak"
       src="https://streak-stats.demolab.com?user=kythu06&hide_border=true&background=0A0A0A&stroke=333333&ring=C9A227&fire=E10600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E10600&sideLabels=C9A227&dates=888888"
-    />
-  </picture>
-</p>
-
-<!-- GitHub Contribution Snake -->
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/kythu06/kythu06/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/kythu06/kythu06/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/kythu06/kythu06/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/kythu06/kythu06/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/kythu06/kythu06/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/kythu06/kythu06/output/github-contribution-grid-snake.svg"
     />
   </picture>
 </p>
