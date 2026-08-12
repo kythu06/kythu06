@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=E10600&center=true&vCenter=true&width=760&lines=Reasoning+clearly.+Solving+real+problems.;ASP.NET+today+-%3E+React+next+-%3E+DevSecOps+ahead.;Focused+on+building+results+beyond+expectations." alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=E10600&center=true&vCenter=true&width=760&lines=Learn.+Build.+Break+limits.+Repeat.;ASP.NET+today+-%3E+React+next+-%3E+DevSecOps+ahead.;Focused+on+building+results+beyond+expectations." alt="Animated typing introduction" />
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-YOUR_EMAIL%40gmail.com-0A0A0A?style=flat-square&logo=gmail&logoColor=E10600" alt="Email badge" />
+  <a href="mailto:nguyenlekythu3229@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nguyenlekythu3229%40gmail.com-0A0A0A?style=flat-square&logo=gmail&logoColor=E10600" alt="Email badge" />
   </a>
   <img src="https://img.shields.io/badge/Focus-ASP.NET%20Backend-E10600?style=flat-square" alt="ASP.NET backend focus badge" />
   <img src="https://img.shields.io/badge/Path-Fullstack%20Developer-0A0A0A?style=flat-square" alt="Fullstack developer path badge" />
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Scholarship-100%25%20FPT%20University-0A0A0A?style=flat-square&logoColor=E10600" alt="100 percent scholarship badge" />
+  <img src="https://img.shields.io/badge/Scholarship-50%25%20FPT%20University-0A0A0A?style=flat-square&logoColor=E10600" alt="50 percent scholarship badge" />
   <img src="https://img.shields.io/badge/Education-FPT%20University%20HCMC-E10600?style=flat-square" alt="FPT University HCMC badge" />
 </p>
 
@@ -121,8 +121,8 @@ The tools below are the ones I use most while building toward stronger backend d
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>100% Scholarship</strong><br /><br />
-      Recognized by FPT University for consistent academic performance.
+      <strong>50% Scholarship</strong><br /><br />
+      Recognized by FPT University for academic performance and consistent learning.
     </td>
     <td width="50%" valign="top">
       <strong>Career Direction</strong><br /><br />
@@ -192,13 +192,13 @@ I am open to internship opportunities and conversations with developers, teams, 
 </table>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:nguyenlekythu3229@gmail.com">
     <img src="https://img.shields.io/badge/Let's%20Connect-E10600?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's connect badge" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">YOUR_EMAIL@gmail.com</a>
+  <a href="mailto:nguyenlekythu3229@gmail.com">nguyenlekythu3229@gmail.com</a>
 </p>
 
 <p align="center">
