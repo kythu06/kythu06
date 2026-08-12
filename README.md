@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:1d4ed8,100:60a5fa&text=Build.%20Solve.%20Grow.&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=ASP.NET%20%7C%20React%20%7C%20DevSecOps&descAlignY=58&animation=fadeIn" alt="Animated header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A0A0A,45:E10600,100:C9A227&text=Build.%20Solve.%20Grow.&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=ASP.NET%20%7C%20React%20%7C%20DevSecOps&descAlignY=58&animation=fadeIn" alt="Animated header banner" />
 </p>
 
 <h1 align="center">Nguyễn Lê Kỳ Thư</h1>
@@ -9,21 +9,21 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=60A5FA&center=true&vCenter=true&width=760&lines=Reasoning+clearly.+Solving+real+problems.;ASP.NET+today+-%3E+React+next+-%3E+DevSecOps+ahead.;Focused+on+building+results+beyond+expectations." alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=E10600&center=true&vCenter=true&width=760&lines=Reasoning+clearly.+Solving+real+problems.;ASP.NET+today+-%3E+React+next+-%3E+DevSecOps+ahead.;Focused+on+building+results+beyond+expectations." alt="Animated typing introduction" />
 </p>
 
 <p align="center">
-  <a href="mailto:kythu06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kythu06%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=white" alt="Email badge" />
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-YOUR_EMAIL%40gmail.com-0A0A0A?style=flat-square&logo=gmail&logoColor=E10600" alt="Email badge" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-ASP.NET%20Backend-1d4ed8?style=flat-square" alt="ASP.NET backend focus badge" />
-  <img src="https://img.shields.io/badge/Path-Fullstack%20Developer-111827?style=flat-square" alt="Fullstack developer path badge" />
-  <img src="https://img.shields.io/badge/Open%20To-Internship-2563eb?style=flat-square" alt="Open to internship badge" />
+  <img src="https://img.shields.io/badge/Focus-ASP.NET%20Backend-E10600?style=flat-square" alt="ASP.NET backend focus badge" />
+  <img src="https://img.shields.io/badge/Path-Fullstack%20Developer-0A0A0A?style=flat-square" alt="Fullstack developer path badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Internship-C9A227?style=flat-square&labelColor=0A0A0A" alt="Open to internship badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Scholarship-100%25%20FPT%20University-0f172a?style=flat-square" alt="100 percent scholarship badge" />
-  <img src="https://img.shields.io/badge/Education-FPT%20University%20HCMC-1e3a8a?style=flat-square" alt="FPT University HCMC badge" />
+  <img src="https://img.shields.io/badge/Scholarship-100%25%20FPT%20University-0A0A0A?style=flat-square&logoColor=E10600" alt="100 percent scholarship badge" />
+  <img src="https://img.shields.io/badge/Education-FPT%20University%20HCMC-E10600?style=flat-square" alt="FPT University HCMC badge" />
 </p>
 
 ---
@@ -83,35 +83,35 @@ The tools below are the ones I use most while building toward stronger backend d
 ### **Core Backend**
 
 <p>
-  <img src="https://img.shields.io/badge/ASP.NET-1d4ed8?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET badge" />
-  <img src="https://img.shields.io/badge/C%23-334155?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp badge" />
-  <img src="https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java badge" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-166534?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot badge" />
-  <img src="https://img.shields.io/badge/Python-0f766e?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
+  <img src="https://img.shields.io/badge/ASP.NET-E10600?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET badge" />
+  <img src="https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=csharp&logoColor=E10600" alt="C Sharp badge" />
+  <img src="https://img.shields.io/badge/Java-171717?style=for-the-badge&logo=openjdk&logoColor=C9A227" alt="Java badge" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-E10600?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot badge" />
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=C9A227" alt="Python badge" />
 </p>
 
 ### **Database & ORM**
 
 <p>
-  <img src="https://img.shields.io/badge/SQL%20Server-991b1b?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server badge" />
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework Core badge" />
+  <img src="https://img.shields.io/badge/SQL%20Server-E10600?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server badge" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-0A0A0A?style=for-the-badge&logo=.net&logoColor=E10600" alt="Entity Framework Core badge" />
 </p>
 
 ### **Frontend Path**
 
 <p>
-  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React badge" />
-  <img src="https://img.shields.io/badge/JavaScript-b45309?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript badge" />
-  <img src="https://img.shields.io/badge/HTML5-c2410c?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" />
-  <img src="https://img.shields.io/badge/CSS3-1d4ed8?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge" />
+  <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=E10600" alt="React badge" />
+  <img src="https://img.shields.io/badge/JavaScript-C9A227?style=for-the-badge&logo=javascript&logoColor=0A0A0A" alt="JavaScript badge" />
+  <img src="https://img.shields.io/badge/HTML5-E10600?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" />
+  <img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=E10600" alt="CSS3 badge" />
 </p>
 
-### **Tools & Workflow**
+### **Tools and Workflow**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-ef4444?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-2563eb?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code badge" />
+  <img src="https://img.shields.io/badge/Git-E10600?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" />
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=C9A227" alt="GitHub badge" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-171717?style=for-the-badge&logo=visualstudiocode&logoColor=E10600" alt="Visual Studio Code badge" />
 </p>
 
 ---
@@ -141,16 +141,16 @@ Building consistently through practical projects, backend exploration, and conti
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com?user=kythu06&hide_border=true&background=00000000&stroke=334155&ring=f59e0b&fire=f59e0b&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=60a5fa&sideLabels=94a3b8&dates=64748b"
+      srcset="https://streak-stats.demolab.com?user=kythu06&hide_border=true&background=0A0A0A&stroke=333333&ring=C9A227&fire=E10600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E10600&sideLabels=C9A227&dates=888888"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com?user=kythu06&hide_border=true&background=00000000&stroke=cbd5e1&ring=f59e0b&fire=f59e0b&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=1d4ed8&sideLabels=475569&dates=64748b"
+      srcset="https://streak-stats.demolab.com?user=kythu06&hide_border=true&background=FFFFFF&stroke=DDDDDD&ring=C9A227&fire=E10600&currStreakNum=0A0A0A&sideNums=0A0A0A&currStreakLabel=E10600&sideLabels=7F1D1D&dates=666666"
     />
     <img
       width="60%"
       alt="GitHub contribution streak"
-      src="https://streak-stats.demolab.com?user=kythu06&hide_border=true&background=00000000&stroke=cbd5e1&ring=f59e0b&fire=f59e0b&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=1d4ed8&sideLabels=475569&dates=64748b"
+      src="https://streak-stats.demolab.com?user=kythu06&hide_border=true&background=0A0A0A&stroke=333333&ring=C9A227&fire=E10600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E10600&sideLabels=C9A227&dates=888888"
     />
   </picture>
 </p>
@@ -181,26 +181,26 @@ I am open to internship opportunities and conversations with developers, teams, 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <strong>Open to Work</strong><br /><br />
+      <strong>Open to work</strong><br /><br />
       Internship opportunities, collaborative projects, and practical engineering conversations are always welcome.
     </td>
     <td width="50%" valign="top">
-      <strong>Preferred Topics</strong><br /><br />
+      <strong>Preferred topics</strong><br /><br />
       Backend systems, React progress, DevSecOps, and everything that helps ship better software.
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="mailto:kythu06@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20Connect-kythu06%40gmail.com-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's connect badge" />
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Connect-E10600?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's connect badge" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:kythu06@gmail.com">kythu06@gmail.com</a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">YOUR_EMAIL@gmail.com</a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,45:1d4ed8,100:60a5fa" alt="Animated footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0A0A0A,45:E10600,100:C9A227" alt="Animated footer banner" />
 </p>
